@@ -1,6 +1,6 @@
 # assign2
 
-1.	BASIC INFORMATION:
+1.	__BASIC INFORMATION:__
 	
 	Name: Juliana Glodek
 	
@@ -12,7 +12,7 @@
 	
 	Assignment: Programming Assignment 2: Loops, Arrays, & Functions
 
-2.	SOURCE FILES:
+2.	__SOURCE FILES:__
 
 	intarray.cpp
 	
@@ -22,7 +22,7 @@
 	
   	conversion.cpp
 
-3.	REFERENCES:
+3.	__REFERENCES:__
 	
 	ZyBooks
 	
