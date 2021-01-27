@@ -15,11 +15,15 @@
 2.	SOURCE FILES:
 
 	intarray.cpp
-  zeroboth.cpp
-  salestax.cpp
-  conversion.cpp
+	
+  	zeroboth.cpp
+	
+  	salestax.cpp
+	
+  	conversion.cpp
 
 3.	REFERENCES:
 	
 	ZyBooks
-  Stack Overflow
+	
+  	Stack Overflow
